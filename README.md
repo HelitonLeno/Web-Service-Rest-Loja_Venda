@@ -17,30 +17,30 @@
          },
             cliente: {
             id: 1,
-            nome: "Heliton Leno",
-            email: "ciencia_@live.com",
+            nome: "",
+            email: "",
             cpfOuCnpj: "123456789",
             tipoCliente: "PESSOA_FISICA",
             enderecos: [
                  {
                     id: 1,
-                    logradouro: "Rua Gralha azul",
+                    logradouro: "",
                     numero: "999",
                     complemento: "Esquina Rel",
-                    bairro: "Hortência",
+                    bairro: "",
                     cep: "38220834",
                     cidade: {
                         id: 1,
-                        nome: "Parana",
+                        nome: "",
                         estado: {
                              id: 1,
-                             nome: "Parana",
+                             nome: "",
                         },
                      },
                  },
                  {
                     id: 2,
-                    logradouro: "Alziro Zarur",
+                    logradouro: " ",
                     numero: "222",
                     complemento: "Sala 123",
                     bairro: "Centro",
@@ -56,22 +56,22 @@
                  },
             ],
             telefones: [
-                "44999214246"
+                ""
              ],
     },
     enderecoDeEntrega: {
         id: 1,
-        logradouro: "Rua Gralha azul",
+        logradouro: "",
         numero: "999",
         complemento: "Esquina Rel",
-        bairro: "Hortência",
+        bairro: "",
         cep: "38220834",
         cidade: {
         id: 1,
-        nome: "Parana",
+        nome: "",
             estado: {
                 id: 1,
-                nome: "Parana",
+                nome: "",
             },
         },
     },
